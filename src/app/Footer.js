@@ -52,20 +52,12 @@ const Footer = () => {
                 Useful links
               </h6>
               <p>
-                <Link href="/home" class="text-reset">Home</Link>
+                <Link href="/home" class="text-reset">General Report</Link>
               </p>
               <p>
-                <Link href="/about" class="text-reset">About</Link>
+                <Link href="/about" class="text-reset">Revenue Report</Link>
               </p>
-              <p>
-                <Link href="/service" class="text-reset">Services</Link>
-              </p>
-              <p>
-                <Link href="/upgrade" class="text-reset">Packages</Link>
-              </p>
-              <p>
-                <Link href="/sucessstories" class="text-reset">SucessStories</Link>
-              </p>
+             
             </div>
     
             <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
