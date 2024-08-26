@@ -1,0 +1,6 @@
+.dashboard-container {
+    margin: 20px;
+}
+.table-container {
+    overflow-x: auto;
+}
